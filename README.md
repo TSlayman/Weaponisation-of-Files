@@ -1,5 +1,5 @@
-# Weaponized-LaZagne
-A batch script to download, execute, and save the logs of LaZagne. A post-exploitatino tool to extract usernames and passwords.
+# Weaponized exe
+### Simple scripts to download, execute, and save the logs for any malware. conjointly deceiving the victim by opening a non-malicious companion file.
 
 
-> Credits to [ZSecurity](https://www.youtube.com/user/zaidsabeeh)
+> Credits: [ZSecurity](https://www.youtube.com/user/zaidsabeeh)
